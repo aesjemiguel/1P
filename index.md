@@ -1,33 +1,20 @@
-## Bem vindo à disciplina Área de Integração
+## Área de Integração
+Disciplina de Área de Integração da turma 1.º P, Técnico de Gestão e Programação de Sistemas Informáticos
 
-### Markdown
+### Módulo I:
+- 3.1 O Homem e a Terra;
+- 4.1 - A Identidade Regional;
+- 7.1  Cultura Global, ou Globalização
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Módulo II:
+  - 3.3 O Homem-Natureza: uma relação sustentável?
+  - 4.3 Dequilíbrios Regionais;
+  - 7.2 Um desafio global: o desenvolvimento sustentável;
 
-# Header 1
-## Header 2
-### Header 3
+### Módulo III:
+  - 3.2 Filhos do Sol;
+  - 4.2 A Religião e o Espaço Nacional;
+  - 8.3 De Alexandria à era Digital;
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aesjemiguel/1P/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
