@@ -1,5 +1,5 @@
 ## Área de Integração
-Disciplina de Área de Integração da turma 1.º P, Técnico de Gestão e Programação de Sistemas Informáticos, da [Escola secundária de São João do Estoril](http://aesje.pt/ESSJE/index.htm.)
+Disciplina de Área de Integração da turma 1.º P, Técnico de Gestão e Programação de Sistemas Informáticos, da [Escola secundária de São João do Estoril](http://aesje.pt/ESSJE/index.htm)
 
 ### Módulo I:
 - 3.1 O Homem e a Terra;
