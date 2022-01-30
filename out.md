@@ -17,33 +17,33 @@ A Revolução Industrial surgiu depois do desenvolvimento da máquina a vapor\.
 
 __Porque aconteceu em Inglaterra?__
 
-<span style="color:#212529">A Inglaterra foi a pioneira do desenvolvimento industrial por ser a nação que possuía as condições mínimas necessárias para desencadear esse processo\. Mas </span>  <span style="color:#212529">também</span>  <span style="color:#212529"> </span>  <span style="color:#212529">a burguesia estabeleceu\-se no poder\, e isso garantiu o desenvolvimento da economia inglesa\, pois tomavam medidas que a fortalecem e atendiam seus interesses economicamente\.</span>
+<span style="color:#1155CC">A Inglaterra foi a pioneira do desenvolvimento industrial por ser a nação que possuía as condições mínimas necessárias para desencadear esse processo\. Mas </span>  <span style="color:#1155CC">também</span> <span style="color:#1155CC">a burguesia estabeleceu\-se no poder\, e isso garantiu o desenvolvimento da economia inglesa\, pois tomavam medidas que a fortalecem e atendiam seus interesses economicamente\.</span>
 
 ![](img/lixo12.png)
 
 # O trabalhador depois da Revolução Industrial
 
-Não era mais necessário habilidades artesanais
+- Não era mais necessário habilidades artesanais
 
-Diminuição dos salários
+- Diminuição dos salários
 
-Carga de trabalho excessiva
+- Carga de trabalho excessiva
 
-Trabalhos em fábricas era bastante perigosos\, que podiam causar perda de membros ou das próprias vidas
+- Trabalhos em fábricas eram bastante perigosos,  podiam causar perda de membros ou das próprias vidas
 
-<span style="color:#212529">Mulheres e crianças também trabalhavam e seus salários eram\, pelo menos\, 50% menores do que os dos homens adultos</span>
+- Mulheres e crianças também trabalhavam e os seus salários eram, pelo menos, 50% menores do que os dos homens adultos
 
 ![](img/lixo13.png)
 
 # Influências da revolução industrial no meio escolar
 
-Reconhecimento que a educação era um direito fundamental para todos os cidadãos
+- Reconhecimento que a educação era um direito fundamental para todos os cidadãos;
 
-Novos métodos de ensino dedicados a introduzir o ensino técnico e profissional desde uma tenra idade
+- Novos métodos de ensino dedicados a introduzir o ensino técnico e profissional desde uma tenra idade;
 
-Garantir mão de obra qualificada
+- Garantir mão de obra qualificada;
 
-<span style="color:#212529">Modelos teóricos de educação\, que tinha as mesmas características observadas na produção industrial: </span>  <span style="color:#212529">tarefas repetitivas e mecânicas</span>
+- Modelos teóricos de educação, que tinha as mesmas características observadas na produção industrial: tarefas repetitivas e mecânicas.
 
 ![](img/lixo14.png)
 
@@ -51,7 +51,7 @@ Garantir mão de obra qualificada
 
 ![](img/lixo15.png)
 
-Com este trabalho podemos verificar que com a revolução Industrial criaram vários tipos de consequências\, sejam estas positivas como negativas\.
+Com este trabalho podemos verificar que com a revolução Industrial criaram vários tipos de consequências, sejam estas positivas como negativas.
 
 # Webgrafia
 
