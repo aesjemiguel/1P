@@ -5,7 +5,7 @@ permalink: /Area-Integracao/
 ---
 
 # Área de Integração
-Disciplina de Área de Integração da turma 1.º P, Técnico de Gestão e Programação de Sistemas Informáticos, da [Escola secundária de São João do Estoril](http://aesje.pt/ESSJE/index.htm)
+Disciplina de Área de Integração da turma 1.º P, Técnico de Gestão e Programação de Sistemas Informáticos, da [Escola secundária de São João do Estoril](http://aesje.pt)
 
 ## Módulo I:
 - 3.1 O Homem e a Terra;
@@ -15,7 +15,7 @@ Disciplina de Área de Integração da turma 1.º P, Técnico de Gestão e Progr
 ## Módulo II
   - 3.3 O Homem-Natureza: uma relação sustentável?
     - [Os recursos energéticos]({{site.baseurl}}/Recursos-Energeticos/)
-    - [Os recursos energéticos: slide]({{site.baseurl}}/assets/Recursos_Energeticos.html)
+    - [Os recursos energéticos: slide]({{site.baseurl}}/Area-Integracao/)
   - 4.3 Dequilíbrios Regionais;
   - 7.2 Um desafio global: o desenvolvimento sustentável;
 
