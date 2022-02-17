@@ -5,3 +5,4 @@ _site
 vendor
 *.org
 *.tex
+.DS_Store
