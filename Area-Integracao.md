@@ -16,8 +16,9 @@ Disciplina de Área de Integração da turma 1.º P, Técnico de Gestão e Progr
   - 3.3 O Homem-Natureza: uma relação sustentável?
     - [Os recursos energéticos]({{site.baseurl}}/Recursos-Energeticos/)
     - [Os recursos energéticos: slide]({{site.baseurl}}/Area-Integracao/)
-  - 4.3 Dequilíbrios Regionais;
-  - 7.2 Um desafio global: o desenvolvimento sustentável;
+    - [Preservação dos animais]({{site.baseurl}}/Preservação-Animais/)
+- 4.3 Dequilíbrios Regionais;
+- 7.2 Um desafio global: o desenvolvimento sustentável;
 
 ## Módulo III:
   - 3.2 Filhos do Sol;

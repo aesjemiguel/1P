@@ -25,7 +25,7 @@ Ultimamente, várias espécies têm visto a extinção, por isso, o governo crio
 ## Instituições
 
 <figure>
-<img  src="/1P/assets/animais1.png" alt="Imagem 0" width="100"/>
+<img  src="/1P/assets/animais1.png" alt="Imagem 0" width="200"/>
 <figcaption>Fig. 1</figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ Ultimamente, várias espécies têm visto a extinção, por isso, o governo crio
 A **Quercus** é uma associação feita para criar habitats e áreas protegidas para cada tipo de animal
 
 <figure>
-<img  src="/1P/assets/animais2.png" alt="Imagem 0" width="100"/>
+<img  src="/1P/assets/animais2.png" alt="Imagem 0" width="200"/>
 <figcaption>Fig. 2</figcaption>
 </figure>
 
@@ -45,14 +45,14 @@ A **Quercus** é uma associação feita para criar habitats e áreas protegidas 
 ## Principais espécies em perigo em Portugal
 
 <figure>
-<img  src="/1P/assets/animais3.jpg" alt="Imagem 0" width="100"/>
+<img  src="/1P/assets/animais3.jpg" alt="Imagem 0" width="200"/>
 <figcaption>Fig. 3</figcaption>
 </figure>
 
 O [lince ibérico](https://pt.wikipedia.org/wiki/Lince-ibérico) é uma espécie de mamífero que se localiza perto de Espanha, até agora tem havido imenso esforço para o preservar.
 
 <figure>
-<img  src="/1P/assets/animais4.jpg" alt="Imagem 0" width="100"/>
+<img  src="/1P/assets/animais4.jpg" alt="Imagem 0" width="200"/>
 <figcaption>Fig. 4</figcaption>
 </figure>
 
