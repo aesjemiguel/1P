@@ -21,7 +21,7 @@
 title: Turma 1P
 email: miguelrodrigues@aesje.com
 description: >- # this means to ignore newlines until "baseurl:"
-Sítio de apoio à turma 1P. 
+  Sítio de apoio à turma 1P. 
 baseurl: "/1P" # the subpath of your site, e.g. /blog
 domain: aesjemiguel.github.io  
 url: "https://aesjemiguel.github.io"
