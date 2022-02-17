@@ -1,8 +1,7 @@
 ---
 title: "Recursos Energéticos"
 layout: post
-categories: 
-tags: 
+permalink: /Recursos-Energeticos/
 ---
 
 
