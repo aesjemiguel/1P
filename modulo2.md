@@ -8,6 +8,7 @@ permalink: /modulo-II/
   - 3.3 O Homem-Natureza: uma relação sustentável?
     - [Os recursos energéticos]({{site.baseurl}}/Recursos-Energeticos/)
     - [Os recursos energéticos: slide]({{site.baseurl}}/Area-Integracao/)
+    - [Poluição]({{site.baseurl}}/Poluicao/)
     - [Preservação dos animais]({{site.baseurl}}/Preservacao-Animais/)
 - 4.3 Dequilíbrios Regionais;
 - 7.2 Um desafio global: o desenvolvimento sustentável;
