@@ -11,18 +11,17 @@ permalink: /Preservacao-Animais/
     1.  [Instituições](#org47b42c9)
     2.  [Principais espécies em perigo em Portugal](#org838f212)
     3.  [Leis relacionadas com a preservação de animais](#org829814b)
+
+
 Autor: Dinis Barroso
 
-
 <a id="org877e4da"></a>
-
 # Preservação de animais
 
 Ultimamente, várias espécies têm visto a extinção, por isso, o governo criou instituições para proteção de animais e leis para proteger os mesmos.
 
 
 <a id="org47b42c9"></a>
-
 ## Instituições
 
 <figure>
@@ -42,12 +41,11 @@ Ultimamente, várias espécies têm visto a extinção, por isso, o governo crio
 
 
 <a id="org838f212"></a>
-
 ## Principais espécies em perigo em Portugal
 
 <figure>
 <img  src="/1P/assets/animais3.jpg" alt="Imagem 0" width="500"/>
-<figcaption>Fig. 2</figcaption>
+<figcaption>Fig. 3</figcaption>
 </figure>
 
 O lince ibérico é uma espécie de mamífero que se localiza perto de Espanha, até agora tem havido imenso esforço para o preservar.
@@ -63,7 +61,6 @@ Painho-do-Monteiro é a menor ave dos Açores, só vive até aos 2 anos de idade
 
 
 <a id="org829814b"></a>
-
 ## Leis relacionadas com a preservação de animais
 
 -   Não é permitido caçar fora de zonas especificas e o assassinato em massa pode ser punível.
