@@ -27,14 +27,14 @@ domain: aesjemiguel.github.io
 url: "https://aesjemiguel.github.io"
 
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  aesjemiguel
 
 # Build settings
 theme: minima
-#remote_theme: pages-themes/hacker@v0.2.0
+
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
+
 
 
 
