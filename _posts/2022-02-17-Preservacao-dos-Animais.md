@@ -46,14 +46,14 @@ Ultimamente, várias espécies têm visto a extinção, por isso, o governo crio
 ## Principais espécies em perigo em Portugal
 
 <figure>
-<img  src="/1P/assets/animais3.png" alt="Imagem 0" width="500"/>
+<img  src="/1P/assets/animais3.jpg" alt="Imagem 0" width="500"/>
 <figcaption>Fig. 2</figcaption>
 </figure>
 
 O lince ibérico é uma espécie de mamífero que se localiza perto de Espanha, até agora tem havido imenso esforço para o preservar.
 
 <figure>
-<img  src="/1P/assets/animais4.png" alt="Imagem 0" width="500"/>
+<img  src="/1P/assets/animais4.jpg" alt="Imagem 0" width="500"/>
 <figcaption>Fig. 4</figcaption>
 </figure>
 
