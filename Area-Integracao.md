@@ -2,6 +2,7 @@
 layout: page
 title: Área de Integração
 permalink: /Area-Integracao/
+published: false
 ---
 
 # Área de Integração
@@ -16,7 +17,7 @@ Disciplina de Área de Integração da turma 1.º P, Técnico de Gestão e Progr
   - 3.3 O Homem-Natureza: uma relação sustentável?
     - [Os recursos energéticos]({{site.baseurl}}/Recursos-Energeticos/)
     - [Os recursos energéticos: slide]({{site.baseurl}}/Area-Integracao/)
-    - [Preservação dos animais]({{site.baseurl}}/Preservação-Animais/)
+    - [Preservação dos animais]({{site.baseurl}}/Preservacao-Animais/)
 - 4.3 Dequilíbrios Regionais;
 - 7.2 Um desafio global: o desenvolvimento sustentável;
 

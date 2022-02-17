@@ -21,7 +21,7 @@
 title: Turma 1P
 email: miguelrodrigues@aesje.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Sítio de apoio à turma 1P. 
+  Disciplina de Área de Integração da turma 1.º P, Técnico de Gestão e Programação de Sistemas Informáticos, da Escola secundária de São João do Estoril
 baseurl: "/1P" # the subpath of your site, e.g. /blog
 domain: aesjemiguel.github.io  
 url: "https://aesjemiguel.github.io"
