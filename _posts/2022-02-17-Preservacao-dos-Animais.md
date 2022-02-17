@@ -13,7 +13,7 @@ permalink: /Preservacao-Animais/
     3.  [Leis relacionadas com a preservação de animais](#org829814b)
 
 
-Autor: Dinis Barroso
+### Autor: Dinis Barroso
 
 <a id="org877e4da"></a>
 # Preservação de animais
@@ -25,39 +25,40 @@ Ultimamente, várias espécies têm visto a extinção, por isso, o governo crio
 ## Instituições
 
 <figure>
-<img  src="/1P/assets/animais1.png" alt="Imagem 0" width="500"/>
+<img  src="/1P/assets/animais1.png" alt="Imagem 0" width="100"/>
 <figcaption>Fig. 1</figcaption>
 </figure>
 
--   Associação Nacional de Conservação da Natureza
--   A **Quercus** é uma associação feita para criar habitats e áreas protegidas para cada tipo de animal
+-   [Quercus](https://quercus.pt), Associação Nacional de Conservação da Natureza
+
+A **Quercus** é uma associação feita para criar habitats e áreas protegidas para cada tipo de animal
 
 <figure>
-<img  src="/1P/assets/animais2.png" alt="Imagem 0" width="500"/>
+<img  src="/1P/assets/animais2.png" alt="Imagem 0" width="100"/>
 <figcaption>Fig. 2</figcaption>
 </figure>
 
--   A **IberLince** é uma associação criada especialmente para manter os linces ibéricos em circulação e de extinção
+-   A [IberLince](http://www.iberlince.eu/index.php/port/) é uma associação criada especialmente para manter os linces ibéricos em circulação e de extinção
 
 
 <a id="org838f212"></a>
 ## Principais espécies em perigo em Portugal
 
 <figure>
-<img  src="/1P/assets/animais3.jpg" alt="Imagem 0" width="500"/>
+<img  src="/1P/assets/animais3.jpg" alt="Imagem 0" width="100"/>
 <figcaption>Fig. 3</figcaption>
 </figure>
 
-O lince ibérico é uma espécie de mamífero que se localiza perto de Espanha, até agora tem havido imenso esforço para o preservar.
+O [lince ibérico](https://pt.wikipedia.org/wiki/Lince-ibérico) é uma espécie de mamífero que se localiza perto de Espanha, até agora tem havido imenso esforço para o preservar.
 
 <figure>
-<img  src="/1P/assets/animais4.jpg" alt="Imagem 0" width="500"/>
+<img  src="/1P/assets/animais4.jpg" alt="Imagem 0" width="100"/>
 <figcaption>Fig. 4</figcaption>
 </figure>
 
 -   Painho-do-Monteiro
 
-Painho-do-Monteiro é a menor ave dos Açores, só vive até aos 2 anos de idade
+[Painho-do-Monteiro](https://www.spea.pt/aves/painho-de-monteiro/) é a menor ave dos Açores e vive até aos 20 anos de idade.
 
 
 <a id="org829814b"></a>
