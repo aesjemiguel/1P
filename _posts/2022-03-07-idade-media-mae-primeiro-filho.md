@@ -3,6 +3,7 @@ title: "Idade média da mãe ao nascimento do primeiro filho"
 layout: post
 categories: 
 tags: 
+permalink:/idade-mae-1-filho/
 ---
 
 O gráfico seguinte representa a evolução da idade média da mãe ao nascimento do primeiro filho, comparando os anos de 1990 e 2020.
