@@ -14,7 +14,7 @@ O gráfico seguinte representa a evolução da idade média da mãe ao nasciment
 
 *Fonte: <https://pordata.pt>*
 
-Como se pode observar pelo gráfico a da idade média das mães, ao nascimento do primeiro filho, aumentou de 1990 para 2020. Este fenómeno terá contribuídop para população portuguesa ter menos jovens nos últimos anos.
+Como se pode observar pelo gráfico a da idade média das mães, ao nascimento do primeiro filho, aumentou de 1990 para 2020. Este fenómeno terá contribuído para população portuguesa ter menos jovens nos últimos anos.
 
 Exemplo do código python para gerar o gráfico.
 
