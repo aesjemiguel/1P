@@ -1,8 +1,7 @@
 ---
 title: "Utilização do Python: os gases efeito de estufa"
 layout: post
-categories: 
-tags: 
+permalink: /gases-efeito-estufa/
 ---
 
 Os gases com efeito de estufa são:
