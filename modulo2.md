@@ -11,6 +11,6 @@ permalink: /modulo-II/
     - [Poluição]({{site.baseurl}}/Poluicao/)
     - [Preservação dos animais]({{site.baseurl}}/Preservacao-Animais/)
 	- [Gases efeito estufa (python)]({{site.baseurl}}/gases-efeito-estufa/)
-- 4.3 Dequilíbrios Regionais;
+- 4.3 Desequilíbrios Regionais;
 	- [Idade média da mãe ao primeiro filho (python)]({{site.baseurl}}/idade-mae-1-filho/)
 - 7.2 Um desafio global: o desenvolvimento sustentável;
