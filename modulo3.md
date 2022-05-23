@@ -10,4 +10,4 @@ permalink: /modulo-III/
      + Linguagem de programação JavaScript 
         - [Ficheiro 1]({{site.baseurl}}/assets/file1.html)
         - [Ficheiro 2]({{site.baseurl}}/assets/file2.html)
-        - [Tabela de multiplicação]({{site.baseurl}}/assets/pirmeiro_P.html)
+        - [Tabela de multiplicação]({{site.baseurl}}/assets/primeiro_P.html)
